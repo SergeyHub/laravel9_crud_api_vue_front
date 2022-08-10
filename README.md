@@ -30,8 +30,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 `npm install –g @vue/cli`  
 `vue create .`    
 `vue create [project name]`    
-`npm init vite@latest <project-name> -- --template vue`    
-`npm init vite@latest frontend -- --template vue`  
+`npm init vite@latest -- --template vue`    
 `npm install`    
 `npm run dev`    
 `npm install -g @vue/cli`    
@@ -51,3 +50,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 `git commit –m "Comment"`  
 **`git remote add origin https://github.com/SergeyHub/laravel9_crud_api_vue_front.git`**  
 `git push -u origin master`  
+
+
+####2. Create Header.vue component
+`npm run serve`    
